@@ -15,7 +15,7 @@
 
 ## 组织架构：双轮驱动，协同发展
 
-其中开源项目主要由gitee同步到github https://gitee.com/WangJiaHui202144，闭源项目在github完成。
+其中开源项目主要由gitee同步到github [https://gitee.com/WangJiaHui202144]，闭源项目在github完成。
 
 ![image](https://github.com/user-attachments/assets/119f1520-59d1-4f5b-8058-18efdaefd93a)
 
